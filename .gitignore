@@ -1,0 +1,12 @@
+# Raw data
+data/
+*.csv
+*.parquet
+
+# Databricks and local artifacts
+.databricks/
+.idea/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
